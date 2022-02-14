@@ -1,4 +1,7 @@
 # ProyectoFinal
+Manuel E. Rodriguez-Villacorta
+Carne 22006988
+
 Repositorio del Proyecto Final de TDS Introducción a la programación
 El programa es un cotizador de seguros el cual funciona ingresando los datos requeridos como salario, edad, edad del conyuge (si aplica), cantidad de hijos (si aplica), cantidad de propiedades a nombre del asegurado (si aplica)
 Despues de esto el programa calcula en base a rangos y porcentajes los recargos sobre el precio base
